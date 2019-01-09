@@ -1,0 +1,6 @@
+C:\Users\David PC\source\repos\Proyecto_papeleria\Capa_Login\bin\Debug\Capa_Login.dll
+C:\Users\David PC\source\repos\Proyecto_papeleria\Capa_Login\bin\Debug\Capa_Login.pdb
+C:\Users\David PC\source\repos\Proyecto_papeleria\Capa_Login\obj\Debug\Capa_Login.csprojAssemblyReference.cache
+C:\Users\David PC\source\repos\Proyecto_papeleria\Capa_Login\obj\Debug\Capa_Login.csproj.CoreCompileInputs.cache
+C:\Users\David PC\source\repos\Proyecto_papeleria\Capa_Login\obj\Debug\Capa_Login.dll
+C:\Users\David PC\source\repos\Proyecto_papeleria\Capa_Login\obj\Debug\Capa_Login.pdb
